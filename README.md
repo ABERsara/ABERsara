@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 🔭 I’m currently working on Moto Israel [Development of client services for a smart phone system](https://www.hazran.online/FreeArena/content/instructions)
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
