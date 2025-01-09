@@ -20,11 +20,13 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%230095D1.svg?style=for-the-badge&logo=entity-framework&logoColor=white) 
 ![Redux Toolkit Query](https://img.shields.io/badge/Redux_Toolkit_Query-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+
 
 # <img src="assets/tools.png" alt="Tools Icon" height="20"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
