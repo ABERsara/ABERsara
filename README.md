@@ -1,12 +1,12 @@
 # 💫 About Me:
-👩‍💻 **Full-stack developer | Node.js & React.js** 🌐 | Experienced in building innovative systems 🚀 | Passionate about creating impactful solutions! 🔧
+🌟 Full-Stack Developer | Expert in designing innovative and scalable systems | Passionate about delivering impactful, user-focused solutions ✨
 
 # 👤 Contact Information:
-**[Sara Aber]**  
-📞 [0556799675]  
+**Sara Aber**  
+📞 0556799675 
 ✉️ [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)
 
-# 💻 Tech Stack:
+# ⌨ Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -27,7 +27,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ABERsara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
