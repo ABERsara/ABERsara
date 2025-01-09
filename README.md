@@ -3,7 +3,7 @@
 
 
 # <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
-**<img src="assets/phone.png" alt="Phone Icon" height="15"color="red"> 0556799675**<br>
+**<img src="assets/phone.png" alt="Phone Icon" height="15" color="red"> 0556799675**<br>
 **<img src="assets/envelope.png" alt="Envelope Icon" height="15"> [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
 
 # <img src="assets/computer.png" alt="Computer Icon" height="20"> Tech Stack:
