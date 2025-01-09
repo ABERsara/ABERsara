@@ -3,8 +3,8 @@
 
 
 # <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
-**<img src="assets/phone.png" alt="Phone Icon" height="15"> 0556799675**<br>
-**<img src="assets/envelope.png" alt="Envelope Icon" height="15">[sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
+**<img src="assets/phone.png" alt="Phone Icon" height="15"color="red"> 0556799675**<br>
+**<img src="assets/envelope.png" alt="Envelope Icon" height="15"> [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
 
 # <img src="assets/computer.png" alt="Computer Icon" height="20"> Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -19,7 +19,6 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%2323234A.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Auth0](https://img.shields.io/badge/Auth0-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/Swagger-%2300B4B6.svg?style=for-the-badge&logo=swagger&logoColor=white) 
