@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌟 Full-Stack Developer | Expert in designing innovative and scalable systems | Passionate about delivering impactful, user-focused solutions ✨
 
+<i class="fab fa-google"></i>
+
 # 👤 Contact Information:
 **Sara Aber**  
 📞 0556799675 
