@@ -1,13 +1,8 @@
-# Nice to meet you!
-Welcome to my GitHub profile! Here you'll find projects showcasing my skills, creativity, and passion for development. Feel free to explore and connect with me!
-# 💫 About Me:
-🌟 Full-Stack Developer | Expert in designing innovative and scalable systems | Passionate about delivering impactful, user-focused solutions ✨
-
-
+# 💫 Nice to meet you!
+🌟Welcome to my GitHub profile! Here you'll find projects showcasing my skills, creativity, and passion for development.✨
 
 
 # <img src="assets/user.png" alt="Contact Icon" height="15"> Contact information:
-**Sara Aber**  
 **<img src="assets/phone.png" alt="Phone Icon" height="15"> 0556799675**
 **<img src="assets/envelope.png" alt="Envelope Icon" height="15">[sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
 
