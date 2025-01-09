@@ -3,17 +3,14 @@
 
 
 
-<<<<<<< HEAD
-<img src="assets/user.png" alt="Contact Icon" height="20">Contact information:
-=======
+
 <img src="assets/user.png" alt="Contact Icon" height="15">
 Contact information:
->>>>>>> e88986013de0be53d5d25e61a47ba0a425e88b41
 **Sara Aber**  
-<img src="assets/phone.png" alt="Contact Icon" height="15"> 0556799675 
-✉️ [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)
+<img src="assets/phone.png" alt="Phone Icon" height="15"> 0556799675 
+<img src="assets/envelope.png" alt="Envelope Icon" height="15">[sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)
 
-# ⌨ Tech Stack:
+#<img src="assets/computer.png" alt="Computer Icon" height="15"> Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -34,7 +31,7 @@ Contact information:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#  GitHub Stats:
+# <img src="assets/tools.png" alt="Tools Icon" height="15"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ABERsara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
