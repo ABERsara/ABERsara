@@ -1,11 +1,6 @@
 # 💫 Nice to meet you!
 🌟Welcome to my GitHub profile! Here you'll find projects showcasing my skills, creativity, and passion for development.✨
 
-
-# <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
-**<img src="assets/phone.png" alt="Phone Icon" height="15" color="red"> 0556799675**<br>
-**<img src="assets/envelope.png" alt="Envelope Icon" height="15"> [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
-
 # <img src="assets/computer.png" alt="Computer Icon" height="20"> Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -33,3 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ABERsara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
+**<img src="assets/phone.png" alt="Phone Icon" height="15" color="red"> 0556799675**<br>
+**<img src="assets/envelope.png" alt="Envelope Icon" height="15"> [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
