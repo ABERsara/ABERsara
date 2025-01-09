@@ -3,7 +3,7 @@
 
 
 
-# 👤 Contact Information:
+<img src="assets/user.png" alt="Contact Icon" height="20">Contact information:
 **Sara Aber**  
 📞 0556799675 
 ✉️ [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)
