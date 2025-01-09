@@ -7,11 +7,11 @@ Welcome to my GitHub profile! Here you'll find projects showcasing my skills, cr
 
 
 # <img src="assets/user.png" alt="Contact Icon" height="15"> Contact information:
-# **Sara Aber**  
-<img src="assets/phone.png" alt="Phone Icon" height="15"> 0556799675 
-<img src="assets/envelope.png" alt="Envelope Icon" height="15">[sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)
+**Sara Aber**  
+**<img src="assets/phone.png" alt="Phone Icon" height="15"> 0556799675**
+**<img src="assets/envelope.png" alt="Envelope Icon" height="15">[sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
 
-#<img src="assets/computer.png" alt="Computer Icon" height="15"> Tech Stack:
+# <img src="assets/computer.png" alt="Computer Icon" height="15"> Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
