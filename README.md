@@ -1,7 +1,9 @@
 # 💫 About Me:
 🌟 Full-Stack Developer | Expert in designing innovative and scalable systems | Passionate about delivering impactful, user-focused solutions ✨
 
-![Google](https://upload.wikimedia.org/wikipedia/commons/a/a1/Google_2015_logo.svg)
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<i class="fas fa-github"></i> GitHub
+
 
 # 👤 Contact Information:
 **Sara Aber**  
