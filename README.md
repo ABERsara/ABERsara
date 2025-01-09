@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌟 Full-Stack Developer | Expert in designing innovative and scalable systems | Passionate about delivering impactful, user-focused solutions ✨
 
-<i class="fab fa-google"></i>
+![Google](https://upload.wikimedia.org/wikipedia/commons/a/a1/Google_2015_logo.svg)
 
 # 👤 Contact Information:
 **Sara Aber**  
