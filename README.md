@@ -3,9 +3,14 @@
 
 
 
+<<<<<<< HEAD
 <img src="assets/user.png" alt="Contact Icon" height="20">Contact information:
+=======
+<img src="assets/user.png" alt="Contact Icon" height="15">
+Contact information:
+>>>>>>> e88986013de0be53d5d25e61a47ba0a425e88b41
 **Sara Aber**  
-📞 0556799675 
+<img src="assets/phone.png" alt="Contact Icon" height="15"> 0556799675 
 ✉️ [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)
 
 # ⌨ Tech Stack:
