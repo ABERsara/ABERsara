@@ -35,7 +35,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABERsara&show_icons=true&locale=en&theme=radical" alt="ABERsara stats" />
 </p>
-
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABERsara&theme=radical" alt="ABERsara streak stats" />
+</p>
 # <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
 **<img src="assets/phone.png" alt="Phone Icon" height="15" color="red"> 0556799675**<br>
 **<img src="assets/envelope.png" alt="Envelope Icon" height="15"> [sara.aber675@gmail.com](mailto:sara.aber675@gmail.com)**
