@@ -29,15 +29,9 @@
 
 
 # <img src="assets/tools.png" alt="Tools Icon" height="20"> GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ABERsara top languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABERsara&show_icons=true&locale=en&theme=dark" alt="ABERsara stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABERsara&theme=dark" alt="ABERsara streak stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ABERsara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
 **<img src="assets/phone.png" alt="Phone Icon" height="15" color="red"> 0556799675**<br>
