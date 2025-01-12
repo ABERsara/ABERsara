@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABERsara&show_icons=true&locale=en&theme=radical" alt="ABERsara stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ABERsara&theme=radical" alt="ABERsara streak stats" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 # <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
