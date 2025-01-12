@@ -29,9 +29,15 @@
 
 
 # <img src="assets/tools.png" alt="Tools Icon" height="20"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ABERsara&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABERsara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABERsara&show_icons=true&locale=en&layout=compact&theme=radical" alt="ABERsara stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABERsara&show_icons=true&locale=en&theme=radical" alt="ABERsara stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ABERsara&theme=radical" alt="ABERsara streak stats" />
+</p>
 
 # <img src="assets/user.png" alt="Contact Icon" height="20"> Contact information:
 **<img src="assets/phone.png" alt="Phone Icon" height="15" color="red"> 0556799675**<br>
